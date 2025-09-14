@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "487524650706",
+    "project_id": "baira-a9c6e",
+    "storage_bucket": "baira-a9c6e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487524650706:android:178b4994c3a9ec2855270b",
+        "android_client_info": {
+          "package_name": "com.example.baira"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487524650706-tll7tio07a5e5ibo1jhvabbkgm6pshk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.baira",
+            "certificate_hash": "3db85b01d258bf20167e05bd32d21e54bc0bfb73"
+          }
+        },
+        {
+          "client_id": "487524650706-veu54ckncba9rvjhl3rsto70io1a0b5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGrQ2bfhClptpVrD3yrC4zPtYr-9B_c6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487524650706-veu54ckncba9rvjhl3rsto70io1a0b5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
